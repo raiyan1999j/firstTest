@@ -1,5 +1,7 @@
-.blog-1{
+.blog-1,.blog-2,.blog-3{
     background-color: tomato;
     color:aqua;
     padding:20px 20px;
 }
+.blog-2{background-color:lightgreen;}
+.blog-3{background-color: blueviolet;}
